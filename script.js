@@ -24,7 +24,7 @@ const dresses = [
     name: "Party Wear Gown",
     category: "Gowns",
     price: "₹700 onwards",
-    image: "https://i.pinimg.com/736x/05/71/1b/05711bdd6a21afc3bc047b112d3df199.jpg"
+    image: "https://github.com/azalfansk27-ops/stylefaishion/blob/main/IMG_20261030_112554.jpg"
   }
 ];
 
