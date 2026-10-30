@@ -6,7 +6,7 @@ const dresses = [
     name: "Elegant Kurti",
     category: "Kurtis",
     price: "₹250 onwards",
-    image: "https://i.pinimg.com/736x/e7/04/b2/e704b2895aad0b080c3b5e1c75977fbe.jpg"
+    image: "https://github.com/azalfansk27-ops/stylefaishion/blob/main/IMG_20261030_112633.jpg"
   },
   {
     name: "Traditional Suit",
