@@ -1,5 +1,5 @@
 
-const whatsappNumber = "91XXXXXXXXXX";
+const whatsappNumber = "8459065240";
 
 const dresses = [
   {
