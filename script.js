@@ -6,13 +6,13 @@ const dresses = [
     name: "Elegant Kurti",
     category: "Kurtis",
     price: "₹250 onwards",
-    image: "https://github.com/azalfansk27-ops/stylefaishion/blob/main/IMG_20261030_112633.jpg"
+    image: "Img1.jpg",
   },
   {
     name: "Traditional Suit",
     category: "Suits",
     price: "₹400 onwards",
-    image: "https://i.pinimg.com/736x/3d/05/92/3d0592312e9005d50e163dbd44877243.jpg"
+    image: "Img2.jpg",
   },
   {
     name: "Designer Blouse",
@@ -24,8 +24,8 @@ const dresses = [
     name: "Party Wear Gown",
     category: "Gowns",
     price: "₹700 onwards",
-    image: "https://github.com/azalfansk27-ops/stylefaishion/blob/main/IMG_20261030_112554.jpg"
-  }
+    image: "Img3.jpg",
+  },
 ];
 
 const products = document.getElementById("products");
